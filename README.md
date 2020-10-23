@@ -7,4 +7,5 @@
  
 # Application UI
 
+ <img width="1819" alt="BookMyShow" src="https://user-images.githubusercontent.com/36065206/96980297-f9e9c400-153c-11eb-89d4-095212a75c28.png">
 
