@@ -5,7 +5,7 @@
  
  ![GDG](https://user-images.githubusercontent.com/36065206/96539609-1ece0500-12b9-11eb-9f9f-54f800733fe0.png)
  
-### Language Used :
+### Language Used 
 
  Kotlin, XML, Android, Retrofit
  
